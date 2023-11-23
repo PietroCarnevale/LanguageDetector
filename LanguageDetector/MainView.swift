@@ -9,6 +9,7 @@ import SwiftUI
 import CoreML
 
 let mlModel = LanguageDetectorModel()
+//ciao
 
 
 struct MainView: View {
